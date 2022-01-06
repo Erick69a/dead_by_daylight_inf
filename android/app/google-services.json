@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "675722093028",
+    "project_id": "dead-by-daylight-inf",
+    "storage_bucket": "dead-by-daylight-inf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675722093028:android:2043991d201987fbaae7f1",
+        "android_client_info": {
+          "package_name": "com.example.dead_by_daylight_inf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675722093028-7i8noi58p98orjog9smb5a9tlks51phu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dead_by_daylight_inf",
+            "certificate_hash": "5c92e00797ba24764dd09a4533ab7d1cae9e91e2"
+          }
+        },
+        {
+          "client_id": "675722093028-s9fl553djfkqhi0tmm4hfp7l73h6flfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvcP6OJmsSvUt4AEdnD1n_FubqxEcqwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675722093028-s9fl553djfkqhi0tmm4hfp7l73h6flfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
